@@ -31,9 +31,14 @@
                   url:'getPublicKey',
                   method:'GET',
               }).then(response => {
+
+
                   let publicKey = response.data.extra.publicKey;
 
+
+                  // 加密 密码
                   let enPass = this.encryptData(publicKey,this.loginForm.password);
+
                   //发起登录请求
                   this.$axios({
                     url:'login',
@@ -47,6 +52,9 @@
                       this.$message.success(response.data.msg);
                     }else {
                       this.$message.error(response.data.msg);
+
+                      // 清空密码
+                      this.loginForm.password = '';
                     }
                   }).catch((err) => {
                     this.$message.error('网络出小差!')
