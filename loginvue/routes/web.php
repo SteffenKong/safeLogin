@@ -21,3 +21,5 @@ Route::post('login','AdminController@login');
 
 // 获取公钥
 Route::get('getPublicKey','AdminController@getPublicKey');
+
+Route::get('/','IndexController@index');
