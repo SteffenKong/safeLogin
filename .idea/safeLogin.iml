@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/loginvue/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/loginvue/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/dnoegel/php-xdg-base-dir" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/facade/flare-client-php" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/facade/ignition" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/facade/ignition-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/fideloper/proxy" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/fzaninotto/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/jakub-onderka/php-console-color" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/jakub-onderka/php-console-highlighter" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/lcobucci/jwt" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/league/commonmark" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/nunomaduro/collision" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/opis/closure" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/phpunit/php-token-stream" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/scrivo/highlight.php" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/sebastian/type" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/symfony/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/symfony/polyfill-iconv" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/loginvue/vendor/webmozart/assert" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
