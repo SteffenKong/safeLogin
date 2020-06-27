@@ -16,4 +16,8 @@ Route::get('/', function () {
 });
 
 
+// 登录
 Route::post('login','AdminController@login');
+
+// 获取公钥
+Route::get('getPublicKey','AdminController@getPublicKey');

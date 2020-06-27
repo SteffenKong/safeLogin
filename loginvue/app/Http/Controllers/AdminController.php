@@ -74,4 +74,18 @@ class AdminController extends Controller
             ]
         ],JSON_UNESCAPED_UNICODE);
     }
+
+
+    /**
+     * @return false|string
+     */
+    public function getPublicKey() {
+        return json_encode([
+            'code' => '000',
+            'msg' => '获取成功',
+            'extra' => [
+                'publicKey' => \config('safe.publicKey')
+            ]
+        ],JSON_UNESCAPED_UNICODE);
+    }
 }
