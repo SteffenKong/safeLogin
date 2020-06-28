@@ -90,6 +90,15 @@
       <path value="$PROJECT_DIR$/loginvue/vendor/phar-io/version" />
       <path value="$PROJECT_DIR$/loginvue/vendor/phpunit/phpunit" />
       <path value="$PROJECT_DIR$/loginvue/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/loginvue/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/loginvue/vendor/seld/jsonlint" />
+      <path value="$PROJECT_DIR$/loginvue/vendor/seld/phar-utils" />
+      <path value="$PROJECT_DIR$/loginvue/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/loginvue/vendor/barryvdh/reflection-docblock" />
+      <path value="$PROJECT_DIR$/loginvue/vendor/barryvdh/laravel-ide-helper" />
+      <path value="$PROJECT_DIR$/loginvue/vendor/justinrainbow/json-schema" />
+      <path value="$PROJECT_DIR$/loginvue/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/loginvue/vendor/doctrine/event-manager" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />

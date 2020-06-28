@@ -8,6 +8,8 @@
 
 namespace App\Model\dao;
 
+use App\Model\entity\Admin;
+
 /**
  * Class AdminDao
  * @package App\Model\dao
